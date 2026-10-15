@@ -9,7 +9,7 @@ silhueta** entre `k = 2` e `k = 10`.
 
 A explicação do projeto tem duração de **4 minutos e 39 segundos**.
 
-[▶️ Assistir à apresentação no YouTube](COLE_AQUI_O_LINK_DO_VIDEO)
+[▶️ Assistir à apresentação no YouTube](https://www.youtube.com/watch?v=gygL9cqyst8)
 
 > Depois de publicar o vídeo, substitua `COLE_AQUI_O_LINK_DO_VIDEO` pela URL do
 > YouTube. O GitHub não permite incorporar o player diretamente no README, mas o
