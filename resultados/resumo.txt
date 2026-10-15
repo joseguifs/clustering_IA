@@ -1,0 +1,20 @@
+RESULTADO DA ANÁLISE K-MEANS — BASE WINE (UCI)
+==============================================
+Amostras: 178
+Variáveis utilizadas: 13
+Faixa de k avaliada: 2 a 10
+Melhor k: 3
+Coeficiente de silhueta do melhor modelo: 0.2849
+Adjusted Rand Index (apenas interpretação): 0.8975
+
+Quantidade de amostras por cluster:
+0    65
+1    51
+2    62
+
+Cruzamento com as classes originais (não usadas no treino):
+classe_original  cultivar_1  cultivar_2  cultivar_3
+cluster_kmeans                                     
+0                         0          65           0
+1                         0           3          48
+2                        59           3           0
